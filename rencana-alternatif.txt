@@ -3,6 +3,7 @@ RENCANA ALTERNATIF
 - Javascript
   * ES6
   * Framework Javascript
+- Fundamental Data Structure
 - PHP Frameworks
 - Interview
 - Vlogs
