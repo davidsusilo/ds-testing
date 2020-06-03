@@ -1,4 +1,5 @@
 RESOLUSI
 - Konsisten Belajar Coding
 - Membuat Aplikasi Sederhana
-- Membuat FOrum
+- Membuat Forum
+- Menolong Orang
