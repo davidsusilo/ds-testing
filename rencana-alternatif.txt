@@ -3,7 +3,11 @@ RENCANA ALTERNATIF
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Vue
+   ^ React
 - Fundamental Data Structure
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Phython
